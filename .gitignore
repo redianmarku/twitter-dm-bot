@@ -1,4 +1,13 @@
-.env
 yarn.lock
-/node_modules
-node_modules
+node_modules/
+logs/
+*.log
+.env
+.env.local
+.env.*.local
+dist/
+build/
+*.bundle.js
+.vscode/
+.idea/
+.DS_Store
